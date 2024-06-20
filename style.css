@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(192, 208, 208);
+    margin: 1%;
+}
+
+
+
+#title{
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+}
+
+#caption{
+    font-size: 17px;
+    font-family: Gill Sans;
+    color: black;
+}
+
+#apj-data{
+    background-color:rgba(36, 26, 39, 0.25) ;
+    box-shadow: 20px 20px 20px white;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 15px;
+    margin-top: 50px;
+}
+
+#h1{
+   font-size: 35px;
+   color: white;
+   text-align: center;
+   text-shadow: 5px 5px 10px black;
+}
+
+#link{
+    text-decoration: none;
+    color: black;
+}
